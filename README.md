@@ -7,7 +7,7 @@ shared source of learning  python
 * 一些Python相关的电子书
 链接：http://pan.baidu.com/s/1i5dbivF 密码：c3ux
 
-* VMWare
+* 虚拟机工具推荐使用Oracle公司开源免费的[VirtualBox](https://www.virtualbox.org/)
 
 
 * CentOS-7-x86_64-DVD-1503-01.iso 镜像  
