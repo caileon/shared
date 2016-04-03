@@ -4,7 +4,7 @@ shared source of learning  python
 声明：以下资料仅供学习交流用，如有侵权请[联系我](ctxiongg@gmail.com)删除，商业行为请联系原作者或相关组织  
   
   
-* 一些Python相关的电子书
+* 一些Python相关的电子书  
 链接：http://pan.baidu.com/s/1i5dbivF 密码：c3ux
 
 * 虚拟机工具推荐使用Oracle公司开源免费的[VirtualBox](https://www.virtualbox.org/)
