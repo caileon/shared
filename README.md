@@ -5,7 +5,7 @@ shared source of learning  python
   
   
 * 一些Python相关的电子书
-
+链接：http://pan.baidu.com/s/1i5dbivF 密码：c3ux
 
 * VMWare
 
