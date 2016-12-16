@@ -1,7 +1,7 @@
 # shared
-shared source of learning  python 
+共享一些Python学习资源
 
-声明：以下资料仅供学习交流用，如有侵权请[联系我](ctxiongg@gmail.com)删除，商业行为请联系原作者或相关组织  
+声明：以下资料仅供学习交流用，如有侵权请[联系我](ctxiongg@gmail.com)删除，商业行为请联系原作者或相关组织
   
   
 * 一些Python相关的电子书  
